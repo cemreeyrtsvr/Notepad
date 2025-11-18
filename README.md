@@ -39,8 +39,8 @@ Uygulamanın temel ve ek özellikleri:
 
 1.  **Visual Studio Kurulumu:** C# ve .NET masaüstü geliştirme iş yükünün yüklü olduğu bir Visual Studio sürümüne ihtiyacınız var.
 2.  **Projeyi Açma:** Bu kod dosyalarını (.cs) bir **Windows Forms Uygulaması** projesine ekleyin veya projeyi doğrudan Visual Studio'da açın.
-3.  **Tasarım Kontrolü:** `Form1.cs [Design]` ekranında aşağıdaki bileşenlerin ve menü öğelerinin doğru `Name` özellikleriyle bağlandığından emin olun (Örneğin, `richTextBox1`, `kaydetToolStripMenuItem`, `kalinToolStripMenuItem`, vb.).
-4.  **Derleme:** Visual Studio'da `Başlat` (F5) tuşuna basarak projeyi derleyin ve çalıştırın.
+3.  **Tasarım Kontrolü:** `Form1.cs [Design]` ekranında aşağıdaki bileşenlerin ve menü öğelerinin doğru `Name` özellikleriyle bağlandığından emin olun.
+4.  **Derleme:** Visual Studio'da `Başlat`  tuşuna basarak projeyi derleyin ve çalıştırın.
 
 ---
 

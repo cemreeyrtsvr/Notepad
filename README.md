@@ -23,7 +23,7 @@ Uygulamanın temel ve ek özellikleri:
 * **Çıkış:** Uygulamadan çıkarken **kayıt uyarısı** sunma.
 
 ### Düzenleme ve İşlevsellik
-* **Kes / Kopyala / Yapıştır:** Temel metin düzenleme işlevleri.
+* **Kes / Kopyala / Yapıştır / Tümünü Seç :** Temel metin düzenleme işlevleri.
 * **Tarih/Saat Ekleme:** İmlecin bulunduğu yere anlık tarih ve saati ekleme.
 
 

@@ -1,19 +1,18 @@
-# 📝 NotePad (C# Windows Forms)
+#  NotePad (C# Windows Forms)
 
-Bu proje, C# programlama dili ve Windows Forms (.NET Framework) kullanılarak geliştirilmiş temel bir Not Defteri (Notepad) uygulamasıdır. Standart Not Defteri özelliklerinin yanı sıra, kullanıcı deneyimini iyileştiren ek düzenleme ve biçimlendirme araçları içerir.
-
-## 🚀 Proje Durumu ve Teknolojiler
+Bu proje, C# programlama dili ve Windows Forms (.NET Framework) kullanılarak geliştirilmiş temel bir Not Defteri (Notepad) uygulamasıdır. 
+##  Proje Durumu ve Teknolojiler
 
 | Badge | Açıklama |
 | :--- | :--- |
 | ![C#](https://img.shields.io/badge/Language-C%23-blue.svg?style=for-the-badge&logo=c-sharp) | Proje C# ile yazılmıştır. |
 | ![Platform](https://img.shields.io/badge/Platform-Windows%20Forms-4CAF50?style=for-the-badge&logo=windows) | Kullanıcı arayüzü Windows Forms kullanılarak geliştirilmiştir. |
 | ![Framework](https://img.shields.io/badge/.NET%20Framework-.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet) | .NET Framework üzerinde çalışır. |
-| ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge) | Bu projeyi MIT lisansı ile paylaşabilirsiniz. |
+
 
 ---
 
-## ✨ Özellikler
+##  Özellikler
 
 Uygulamanın temel ve ek özellikleri:
 
@@ -26,17 +25,17 @@ Uygulamanın temel ve ek özellikleri:
 ### Düzenleme ve İşlevsellik
 * **Kes / Kopyala / Yapıştır:** Temel metin düzenleme işlevleri.
 * **Tarih/Saat Ekleme:** İmlecin bulunduğu yere anlık tarih ve saati ekleme.
-* **Kayıt Uyarısı:** Belge değiştirildiğinde ve kaydedilmeden kapatılmaya çalışıldığında uyarı verme.
+
 
 ### Biçimlendirme ve Görünüm
 * **Yazı Tipi:** Belgenin yazı tipini, boyutunu ve stilini ayarlama.
 * **Metin Rengi:** Seçili metnin rengini değiştirme.
 * **Arka Plan Rengi:** Metin düzenleyicinin arka plan rengini değiştirme.
-* **Yazı Stili Kısayolları (Yeni Eklenen):** Seçili metne **Kalın**, **Eğik** ve **Altı Çizili** stilini uygulama/kaldırma.
+
 
 ---
 
-## 💻 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 1.  **Visual Studio Kurulumu:** C# ve .NET masaüstü geliştirme iş yükünün yüklü olduğu bir Visual Studio sürümüne ihtiyacınız var.
 2.  **Projeyi Açma:** Bu kod dosyalarını (.cs) bir **Windows Forms Uygulaması** projesine ekleyin veya projeyi doğrudan Visual Studio'da açın.
@@ -45,7 +44,7 @@ Uygulamanın temel ve ek özellikleri:
 
 ---
 
-## 📝 Kullanılan Namespace
+## Kullanılan Namespace
 
 Projenin temel `namespace` adı aşağıdaki gibidir:
 

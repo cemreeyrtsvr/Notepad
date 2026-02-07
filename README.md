@@ -70,3 +70,46 @@ Purpose:
 
 ---
 
+## 🚀 Installation & Run
+
+1️⃣ Visual Studio must be installed  
+(.NET Desktop Development workload required)
+
+2️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/cemreeyrtsvr/Notepad.git
+```
+
+3️⃣ Open the project in Visual Studio
+
+4️⃣ Run the application 🚀
+
+---
+
+## 👩‍💻 Developer
+
+**Cemre Yurtsever**
+
+🎓 Computer Engineering Student  
+💻 Java • C# • Python  
+🤖 AI & Data Science Enthusiast  
+
+📫 Contact:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/cemre-yurtsever">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+  </a>
+  <a href="mailto:cyurtsever64@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
+  </a>
+</p>
+
+---
+
+⭐ If you find this repository useful, don’t forget to star it!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>

@@ -20,47 +20,47 @@
 
 ---
 
-## 🧠 Proje Hakkında
+## 🧠 About the Project
 
-Bu proje, **C# programlama dili** ve **Windows Forms (.NET Framework)** kullanılarak geliştirilmiş temel bir **Not Defteri (Notepad)** uygulamasıdır.
+This project is a basic **Notepad application** developed using the **C# programming language** and **Windows Forms (.NET Framework)**.
 
-Amaç:
+Purpose:
 
-- Dosya işlemlerini öğrenmek
-- Metin düzenleme mantığını kavramak
-- Windows Forms arayüz geliştirme pratiği yapmak
-
----
-
-## ✨ Özellikler
-
-### 📂 Dosya Yönetimi
-
-- 🆕 Yeni belge oluşturma  
-- 📂 `.txt` dosyası açma  
-- 💾 Kaydet / Farklı Kaydet  
-- ❌ Çıkışta kayıt uyarısı  
+- Learning file operations  
+- Understanding text editing logic  
+- Practicing Windows Forms UI development  
 
 ---
 
-### ✏️ Düzenleme İşlevleri
+## ✨ Features
 
-- Kes / Kopyala / Yapıştır  
-- Tümünü Seç  
-- Tarih & Saat ekleme  
+### 📂 File Management
 
----
-
-### 🎨 Biçimlendirme
-
-- Yazı tipi değiştirme  
-- Font boyutu ayarlama  
-- Metin rengi değiştirme  
-- Arka plan rengi ayarlama  
+- 🆕 Create a new blank document  
+- 📂 Open existing `.txt` files  
+- 💾 Save & Save As  
+- ❌ Exit with save warning  
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+### ✏️ Editing Functions
+
+- Cut / Copy / Paste  
+- Select All  
+- Insert Date & Time  
+
+---
+
+### 🎨 Formatting
+
+- Change font  
+- Adjust font size  
+- Change text color  
+- Change background color  
+
+---
+
+## 🛠️ Technologies Used
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
@@ -70,12 +70,12 @@ Amaç:
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+## 🚀 Installation & Run
 
-1️⃣ Visual Studio kurulu olmalı  
-(.NET Desktop Development workload)
+1️⃣ Visual Studio must be installed  
+(.NET Desktop Development workload required)
 
-2️⃣ Repo klonla:
+2️⃣ Clone the repository:
 
 ```bash
 git clone https://github.com/cemreeyrtsvr/Notepad.git

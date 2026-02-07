@@ -70,12 +70,3 @@ Purpose:
 
 ---
 
-## 🚀 Installation & Run
-
-1️⃣ Visual Studio must be installed  
-(.NET Desktop Development workload required)
-
-2️⃣ Clone the repository:
-
-```bash
-git clone https://github.com/cemreeyrtsvr/Notepad.git

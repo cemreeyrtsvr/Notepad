@@ -1,52 +1,81 @@
-#  NotePad (C# Windows Forms)
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=NotePad%20App&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
 
-Bu proje, C# programlama dili ve Windows Forms (.NET Framework) kullanılarak geliştirilmiş temel bir Not Defteri (Notepad) uygulamasıdır. 
-##  Proje Durumu ve Teknolojiler
-
-| Badge | Açıklama |
-| :--- | :--- |
-| ![C#](https://img.shields.io/badge/Language-C%23-blue.svg?style=for-the-badge&logo=c-sharp) | Proje C# ile yazılmıştır. |
-| ![Platform](https://img.shields.io/badge/Platform-Windows%20Forms-4CAF50?style=for-the-badge&logo=windows) | Kullanıcı arayüzü Windows Forms kullanılarak geliştirilmiştir. |
-| ![Framework](https://img.shields.io/badge/.NET%20Framework-.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet) | .NET Framework üzerinde çalışır. |
-
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=25&center=true&vCenter=true&width=900&lines=C%23+Windows+Forms+Project;Basic+Notepad+Application;File+%26+Text+Editor+Features" />
+</p>
 
 ---
 
-##  Özellikler
+# 📝 NotePad (C# Windows Forms)
 
-Uygulamanın temel ve ek özellikleri:
-
-### Dosya Yönetimi
-* **Yeni:** Yeni, boş bir belge başlatma.
-* **Aç:** Mevcut bir metin dosyasını (`.txt`) açma.
-* **Kaydet & Farklı Kaydet:** Kaydedilmemiş dosyaları kaydetme ve kayıtlı dosyaları yeni bir isimle kaydetme (`Kaydet` ve `Farklı Kaydet` mantığı ayrılmıştır).
-* **Çıkış:** Uygulamadan çıkarken **kayıt uyarısı** sunma.
-
-### Düzenleme ve İşlevsellik
-* **Kes / Kopyala / Yapıştır / Tümünü Seç :** Temel metin düzenleme işlevleri.
-* **Tarih/Saat Ekleme:** İmlecin bulunduğu yere anlık tarih ve saati ekleme.
-
-
-### Biçimlendirme ve Görünüm
-* **Yazı Tipi:** Belgenin yazı tipini, boyutunu ve stilini ayarlama.
-* **Metin Rengi:** Seçili metnin rengini değiştirme.
-* **Arka Plan Rengi:** Metin düzenleyicinin arka plan rengini değiştirme.
-
+![Language](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp)
+![Platform](https://img.shields.io/badge/Platform-Windows%20Forms-4CAF50?style=for-the-badge&logo=windows)
+![Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet)
+![Repo Size](https://img.shields.io/github/repo-size/cemreeyrtsvr/Notepad?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/cemreeyrtsvr/Notepad?style=for-the-badge)
 
 ---
 
-##  Kurulum ve Çalıştırma
+## 🧠 Proje Hakkında
 
-1.  **Visual Studio Kurulumu:** C# ve .NET masaüstü geliştirme iş yükünün yüklü olduğu bir Visual Studio sürümüne ihtiyacınız var.
-2.  **Projeyi Açma:** Bu kod dosyalarını (.cs) bir **Windows Forms Uygulaması** projesine ekleyin veya projeyi doğrudan Visual Studio'da açın.
-3.  **Tasarım Kontrolü:** `Form1.cs [Design]` ekranında aşağıdaki bileşenlerin ve menü öğelerinin doğru `Name` özellikleriyle bağlandığından emin olun.
-4.  **Derleme:** Visual Studio'da `Başlat`  tuşuna basarak projeyi derleyin ve çalıştırın.
+Bu proje, **C# programlama dili** ve **Windows Forms (.NET Framework)** kullanılarak geliştirilmiş temel bir **Not Defteri (Notepad)** uygulamasıdır.
+
+Amaç:
+
+- Dosya işlemlerini öğrenmek
+- Metin düzenleme mantığını kavramak
+- Windows Forms arayüz geliştirme pratiği yapmak
 
 ---
 
-## Kullanılan Namespace
+## ✨ Özellikler
 
-Projenin temel `namespace` adı aşağıdaki gibidir:
+### 📂 Dosya Yönetimi
 
-```csharp
-namespace NotePad
+- 🆕 Yeni belge oluşturma  
+- 📂 `.txt` dosyası açma  
+- 💾 Kaydet / Farklı Kaydet  
+- ❌ Çıkışta kayıt uyarısı  
+
+---
+
+### ✏️ Düzenleme İşlevleri
+
+- Kes / Kopyala / Yapıştır  
+- Tümünü Seç  
+- Tarih & Saat ekleme  
+
+---
+
+### 🎨 Biçimlendirme
+
+- Yazı tipi değiştirme  
+- Font boyutu ayarlama  
+- Metin rengi değiştirme  
+- Arka plan rengi ayarlama  
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="50"/>
+</p>
+
+---
+
+## 🚀 Kurulum ve Çalıştırma
+
+1️⃣ Visual Studio kurulu olmalı  
+(.NET Desktop Development workload)
+
+2️⃣ Repo klonla:
+
+```bash
+git clone https://github.com/cemreeyrtsvr/Notepad.git

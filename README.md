@@ -91,7 +91,7 @@ git clone https://github.com/cemreeyrtsvr/Notepad.git
 
 **Cemre Yurtsever**
 
-🎓 Computer Engineering Student  
+🎓 Software Engineering Student  
 💻 Java • C# • Python  
 🤖 AI & Data Science Enthusiast  
 
